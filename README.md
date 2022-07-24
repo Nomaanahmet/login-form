@@ -1,4 +1,4 @@
-# login-Form
+# Login-Form
 Login form with dark and light mode <br>
 Html|TailwindCss <hr>
 ![dark](https://user-images.githubusercontent.com/109592155/180605349-2e1fb3f8-d096-4c68-96f3-1e5fea447849.png) <hr>
